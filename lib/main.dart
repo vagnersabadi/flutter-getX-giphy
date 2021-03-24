@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:getx_giphy/home/home.bindings.dart';
-import 'package:getx_giphy/home/home.page.dart';
+import 'package:getx_giphy/pages/home/home.bindings.dart';
+import 'package:getx_giphy/pages/home/home.page.dart';
 
 void main() {
   runApp(MyApp());

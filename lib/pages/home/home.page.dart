@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:getx_giphy/home/home.controller.dart';
+import 'package:getx_giphy/pages/home/home.controller.dart';
 
 class HomePage extends GetView<HomeController> {
   @override
